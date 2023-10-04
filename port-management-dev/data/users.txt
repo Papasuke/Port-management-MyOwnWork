@@ -1,5 +1,0 @@
-USERNAME,PASSWORD,ROLE,MANAGE_PORT,VEHICLE,ACCESS_RIGHT
-AnhKhoa,4d9d11907d268476d17a7cac16b02cc1,Customer,none,false
-Phuoc,4d9d11907d268476d17a7cac16b02cc1,Customer,tr-987,true
-Khoa,4d9d11907d268476d17a7cac16b02cc1,Customer,none,false
-Admin,4d9d11907d268476d17a7cac16b02cc1,Admin
