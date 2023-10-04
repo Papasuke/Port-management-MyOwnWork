@@ -1,3 +1,0 @@
-ContainerID,Weight,Type,Status,AddressId
-c-122,20.0,Refrigerated,InProgress,tr-134
-c-123,20.0,Refrigerated,InProgress,tr-123
